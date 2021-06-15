@@ -1,0 +1,10 @@
+﻿Labels,Color,Shape,Size,Label Location,Shaded
+NSP4,red,diamond,500,inside,FALSE
+ALG11,gray,circle,100,outside,FALSE
+NUP210,orange,circle,100,outside,FALSE
+IDE,gray,circle,100,outside,FALSE
+DNAJC11,gray,circle,100,outside,FALSE
+TIMM10,gray,circle,100,outside,TRUE
+TIMM29,gray,circle,100,outside,TRUE
+TIMM9,gray,circle,100,outside,TRUE
+TIMM10B,gray,circle,100,outside,TRUE
